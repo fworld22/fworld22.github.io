@@ -154,7 +154,8 @@ p {
     color: white;
     border-bottom: 2px solid white;
     display: inline-block;
-
+    text-decoration-line: none;
+    text-decoration: none;
 }
 
 p1 {
